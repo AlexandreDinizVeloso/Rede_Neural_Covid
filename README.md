@@ -1,4 +1,4 @@
-# Excel-Py
+# Rede Neural Covid
 <img src="https://img.shields.io/static/v1?label=Version&message=1.0.0&color=FF2102&style=for-the-badge&logo="/>
 
 Projeto criado visando o funcionamento de uma rede neural que reconhece padrões em uma base de dados e diagnostica radiografias:
